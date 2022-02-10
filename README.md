@@ -32,16 +32,8 @@ for deployment, take folder build and drag and drop in your favorite app for dep
 
 ### Built With 🔧
 
-<<<<<<< HEAD
 * [ReactJS](https://reactjs.org) - Library for frontend
 
 ## Authors ✒️
 
 * **Jairo Valentin Solarte** - [JairoSolarteRodriguez](https://github.com/JairoSolarteRodriguez/)
-=======
-* [ReactJS](https://reactjs.org) - Library for fronted
-
-## Authors ✒️
-
-* **Jairo Valentin Solarte** - [JairoSolarteRodriguez](https://github.com/JairoSolarteRodriguez/)
->>>>>>> 9507a1a73fdce00a309f12e4321615e4e83d7766
