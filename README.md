@@ -19,8 +19,8 @@ you should have installed **NodeJS** (https://nodejs.org/es/)
 
 run next commnds in terminal or cmd after cloning the repo
 
-_npm install_
-_npm start_
+__npm install__
+__npm start__
 
 build for deployment
 _npm run build_
@@ -32,7 +32,7 @@ for deployment, take folder build and drag and drop in your favorite app for dep
 
 ### Built With 🔧
 
-* [ReactJS](https://reactjs.org) - Library for fronted
+* [ReactJS](https://reactjs.org) - Library for frontend
 
 ## Authors ✒️
 
